@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\villa\\source\\repos\\Project #3\\Project #3\\Project #3.csproj",
+      "projectUniqueName": "C:\\Users\\villa\\source\\repos\\Ice-Cream-Shop\\Project #3\\Project #3.csproj",
       "projectName": "Project #3",
-      "projectPath": "C:\\Users\\villa\\source\\repos\\Project #3\\Project #3\\Project #3.csproj",
+      "projectPath": "C:\\Users\\villa\\source\\repos\\Ice-Cream-Shop\\Project #3\\Project #3.csproj",
       "packagesPath": "C:\\Users\\villa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\villa\\source\\repos\\Project #3\\Project #3\\obj\\",
+      "outputPath": "C:\\Users\\villa\\source\\repos\\Ice-Cream-Shop\\Project #3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\villa\\AppData\\Roaming\\NuGet\\NuGet.Config",

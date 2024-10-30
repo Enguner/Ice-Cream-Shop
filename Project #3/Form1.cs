@@ -62,7 +62,7 @@ namespace Project__3
             if (lstFlavors.SelectedItems.Count >= 1)
             {
                 string selectedFlavors = string.Join(", ", lstFlavors.SelectedItems.Cast<string>());
-                string printMe = "Total: " + txtTotal.Text + "\r\n" + "Flavors: " + selectedFlavors + "\r\n";
+                string printMe = "Total: " + txtTotal.Text + "\r\n\r\n" + "Flavors: " + selectedFlavors + "\r\n\r\n";
                 switch (numOfScoops)
                 {
                     case 1:
@@ -77,7 +77,7 @@ namespace Project__3
                         printMe += "Scoops: Three Scoops\r\n";
                         break;
                 }
-                printMe += "Toppings:\r\n";
+                printMe += "\r\nToppings:\r\n";
 
                 if (toppingsClicked == 0)
                 {
@@ -88,23 +88,23 @@ namespace Project__3
                 {
                     if (chkSprinkles.Checked)
                     {
-                        printMe += "\t-Sprinkles\r\n";
+                        printMe += "-Sprinkles\r\n";
                     }
                     if (chkOreos.Checked)
                     {
-                        printMe += "\t-Oreos\r\n";
+                        printMe += "-Oreos\r\n";
                     }
                     if (chkChocolateChips.Checked)
                     {
-                        printMe += "\t-Chococolate Chips\r\n";
+                        printMe += "-Chococolate Chips\r\n";
                     }
                     if (chkCherrySyrup.Checked)
                     {
-                        printMe += "\t-Cherry Syrup\r\n";
+                        printMe += "-Cherry Syrup\r\n";
                     }
                     if (chkGummyWorms.Checked)
                     {
-                        printMe += "\t-Gummy Worms\r\n";
+                        printMe += "-Gummy Worms\r\n";
                     }
                 }
 

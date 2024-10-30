@@ -15,3 +15,21 @@ C:\Users\villa\source\repos\Project #3\Project #3\obj\Debug\net8.0-windows\Proje
 C:\Users\villa\source\repos\Project #3\Project #3\obj\Debug\net8.0-windows\Project #3.genruntimeconfig.cache
 C:\Users\villa\source\repos\Project #3\Project #3\obj\Debug\net8.0-windows\ref\Project #3.dll
 C:\Users\villa\source\repos\Project #3\Project #3\obj\Debug\net8.0-windows\Project__3.Form2.resources
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\bin\Debug\net8.0-windows\Project #3.exe
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\bin\Debug\net8.0-windows\Project #3.deps.json
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\bin\Debug\net8.0-windows\Project #3.runtimeconfig.json
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\bin\Debug\net8.0-windows\Project #3.dll
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\bin\Debug\net8.0-windows\Project #3.pdb
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project__3.Form1.resources
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project__3.Form2.resources
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.csproj.GenerateResource.cache
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.AssemblyInfoInputs.cache
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.AssemblyInfo.cs
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.sourcelink.json
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.dll
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\refint\Project #3.dll
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.pdb
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\Project #3.genruntimeconfig.cache
+C:\Users\villa\source\repos\Ice-Cream-Shop\Project #3\obj\Debug\net8.0-windows\ref\Project #3.dll
